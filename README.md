@@ -1,2 +1,2 @@
 # testrepo
-Test for git/github cert
+Test for git/github certification
